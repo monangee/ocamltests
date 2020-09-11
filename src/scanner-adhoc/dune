@@ -1,0 +1,4 @@
+(executable
+  (name scanner-test)
+  (flags
+    (:standard -warn-error -A)))
